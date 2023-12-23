@@ -1,2 +1,3 @@
 # Dilesh-Madhushan
-This is the home page 
+
+Undergraduate |BICT (Hons) Rajarata University of Sri Lanka
